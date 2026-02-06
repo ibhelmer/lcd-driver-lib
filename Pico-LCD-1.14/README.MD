@@ -14,7 +14,7 @@ SEEED Studio
 
 ## Compatibility 
 
-- **This display is compatible with the Raspberry Pi Pico board
+- This display is compatible with the Raspberry Pi Pico board
 
 ## Documentation
 
