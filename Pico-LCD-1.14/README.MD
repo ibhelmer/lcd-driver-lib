@@ -12,6 +12,10 @@ SEEED Studio
 - **Type:** LCD display module  
 - **Driver Chip:** Embedded ST7789
 
+## Compatibility 
+
+- **This display is compatible with the Raspberry Pi Pico board
+
 ## Documentation
 
 - https://www.waveshare.com/wiki/Pico-LCD-1.14
